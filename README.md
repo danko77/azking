@@ -1,0 +1,2 @@
+# azking
+azking.js
